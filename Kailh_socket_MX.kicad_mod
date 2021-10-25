@@ -1,4 +1,4 @@
-(module Kailh_socket_MX (layer F.Cu) (tedit 614F821D)
+(module Kailh_socket_MX (layer F.Cu) (tedit 61760F31)
   (descr "MX-style keyswitch with Kailh socket mount")
   (tags MX,cherry,gateron,kailh,pg1511,socket)
   (attr smd)
@@ -60,4 +60,5 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
   (pad 2 smd rect (at -7.56 -2.54) (size 2.55 2.5) (layers B.Cu B.Paste B.Mask))
+  (pad "" np_thru_hole rect (at 0 0) (size 13.8 13.8) (drill oval 13.8) (layers *.Cu *.Mask))
 )
